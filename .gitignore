@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (genereres automatisk ved kørsel)
+*.db
+*.sqlite3
+
+# Streamlit logs & credentials
+.streamlit/secrets.toml
+st_*.log
+*.log
+
+# Environment variables & API keys
+.env
