@@ -20,3 +20,6 @@ st_*.log
 
 # Environment variables & API keys
 .env
+
+# Interne arbejdsdokumenter
+STUDIEPROJEKT_DOKUMENTATION.md
